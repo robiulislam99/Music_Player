@@ -46,8 +46,8 @@ It allows users to play songs directly from their **device’s internal storage*
 
 ## 🖼️ Screenshots
 
-| Registration Page | Login Page | Music Player UI |
-|--------------------|------------|----------------|
+| Registration Page | Login Page | Music Player UI | Music Player UI |
+|--------------------|------------|----------------|----------------|
 | ![Registration](https://github.com/robiulislam99/Music_Player/blob/master/app/Screenshot_2022-12-26-21-18-54-96.jpg) | ![Login](https://github.com/robiulislam99/Music_Player/blob/master/app/Screenshot_2022-12-26-21-18-47-55.jpg) | ![Player](https://github.com/robiulislam99/Music_Player/blob/master/app/Screenshot_2022-12-26-21-22-25-68.jpg)![Player](https://github.com/robiulislam99/Music_Player/blob/master/app/Screenshot_2022-12-26-21-21-31-61.jpg)  |
 
 
